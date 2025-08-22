@@ -49,8 +49,6 @@ Welcome to my GitHub! My journey started in Music Media Production, where I hone
 
 - [LinkedIn: Nicholas Ray Hammer](https://www.linkedin.com/in/nicholasrayhammer/)
 
-- Add my profile README
-
 ---
 
 > “The journey of a thousand miles begins with a single step.” — Lao Tzu
